@@ -80,6 +80,11 @@ GROUP BY inter_dom;
 
 ---
 
+## Dashboard Preview
+
+![Dashboard](images/dashboard.png)
+
 ## Author
 
 Gustavo Goldshmith
+
